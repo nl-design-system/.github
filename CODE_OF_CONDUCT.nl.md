@@ -25,7 +25,7 @@ Voorbeelden van onaanvaardbaar gedrag zijn:
 - Publiceren van persoonlijke informatie van anderen, zoals een fysiek adres of e-mail adres, zonder hun uitdrukkelijke toestemming
 - Ander gedrag dat redelijkerwijs als ongepast zou kunnen worden beschouwd in een professionele setting
 
-## Handhaving
+## Verantwoordelijkheden bij handhaving
 
 Communityleiders zijn verantwoordelijk voor het verduidelijken en handhaven van onze normen van acceptabel gedrag en zullen passende en eerlijke corrigerende maatregelen nemen in reactie op elk gedrag dat zij ongepast, bedreigend, aanstootgevend, of schadelijk vinden.
 
