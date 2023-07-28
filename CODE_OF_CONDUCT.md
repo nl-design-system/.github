@@ -59,7 +59,10 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement via email or Slack.
+reported to the community leaders responsible for enforcement via [nldesignsystem@gebruikercentraal.nl](mailto:nldesignsystem@gebruikercentraal.nl]) or by contacting [NL Design System
+core team members](https://nldesignsystem.nl/project/kernteam) directly (via Slack or email).
+
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
