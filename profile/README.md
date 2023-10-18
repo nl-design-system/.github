@@ -1,10 +1,8 @@
 # NL Design System
 
-This place is our platform for the NL Design System community to develop new patterns and components. You will find the community backlog in [the Issues list](https://github.com/nl-design-system/backlog/issues). The overview of current developments in the project boards. For example:
+This place is our platform for the NL Design System community to develop new patterns and components. You will find the community backlog in [the Issues list](https://github.com/nl-design-system/backlog/issues).
 
-- [Design Tokens](https://github.com/nl-design-system/backlog/projects/4)
-- [Infrastructure](https://github.com/nl-design-system/backlog/projects/2)
-- [Components](https://github.com/nl-design-system/backlog/projects/1)
+Most documentation is available on our website [nldesignsystem.nl](https://nldesignsystem.nl/).
 
 ## Design systems in the NL Design System community
 
