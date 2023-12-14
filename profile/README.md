@@ -11,7 +11,8 @@ Most documentation is available on our website [nldesignsystem.nl](https://nldes
 - [Rijksdienst voor Ondernemend Nederland](https://github.com/nl-design-system/rvo)
 - [Amsterdam](https://github.com/amsterdam/design-system)
 - [Rijkshuisstijl Community](https://github.com/nl-design-system/rijkshuisstijl-community): Logius, MijnOverheid, DigiD, RIVM ... en binnenkort misschien ook jouw organisatie?
-- ...binnenkort ook: Rotterdam en Nijmegen 🎉
+- [Rotterdam](https://github.com/nl-design-system/rotterdam)
+- ...binnenkort ook: Nijmegen 🎉
 
 ## Themes
 
