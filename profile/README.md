@@ -21,7 +21,7 @@ Some organisations use components already available in the NL Design System ecos
 
 ## Code of Conduct
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. Read [our Code of Conduct](CODE_OF_CONDUCT.md) if you haven't already.
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. Read [our Code of Conduct](../CODE_OF_CONDUCT.md) if you haven't already.
 
 ## License
 
