@@ -38,7 +38,7 @@ Voorbeelden van het vertegenwoordigen van onze community zijn onder meer het geb
 
 ## Handhaving
 
-Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden via [kernteam@nldesignsystem.nl](mailto:nldesignsystem@gebruikercentraal.nl]) of door rechtstreeks contact op te nemen met [leden van het kernteam](https://nldesignsystem.nl/project/kernteam) (via Slack of email).
+Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden via [info@nldesignsystem.nl](mailto:info@nldesignsystem.nl]) of door rechtstreeks contact op te nemen met [leden van het kernteam](https://nldesignsystem.nl/project/kernteam) (via Slack of email).
 
 Alle klachten zullen onmiddellijk en eerlijk worden beoordeeld en onderzocht.
 
